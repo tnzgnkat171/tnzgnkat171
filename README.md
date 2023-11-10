@@ -104,7 +104,7 @@
   <strong>📧 Hoặc Email: <a href="mailto:nguyentrungtungnhat@gmail.com" target="_top">nguyentrungtungnhat@gmail.com</a></strong>
 </p>
 <a href="https://tiktok.com/@tngnht.py" target="_blank">
-  <img src="images/fair-mern-stack-advanced-banner-trungquandev-scaled.jpeg" width="1200" alt="@tngnht.py" />
+  <img src="images/banner.png" width="1200" alt="@tngnht.py" />
 </a>
 
 <br>
