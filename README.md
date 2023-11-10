@@ -65,23 +65,23 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://trungquandev.com" target="blank">
-    <img width="90" height="90" src="images/logo-trungquandev-transparent-bg-192x192.png" alt="trungquandev-blog" />
+  <a href="https://trgtgnhat.webhostapp000.com" target="blank">
+    <img width="90" height="90" src="images/logo-trungquandev-transparent-bg-192x192.png" alt="TungNhat-Blog" />
   </a>
-  <a href="https://facebook.com/trungquandev" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trungquandev-facebook" />
+  <a href="https://facebook.com/NhatVaNhungNoiBuon.08" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="TungNhat-Facebook" />
   </a>
-  <a href="https://www.youtube.com/c/TrungquandevOfficial" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="trungquandev-youtube" />
+  <a href="https://tiktok.com/tngnhat.py" target="blank">
+    <img src="https://seeklogo.com/images/T/tik-tok-logo-E3F1A1B69E-seeklogo.com.png" alt="TungNhat-TikTok" />
   </a>
   <a href="https://www.linkedin.com/in/trungquandev" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="trungquandev-linkedin" />
   </a>
-  <a href="https://instagram.com/trungquandev" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="trungquandev-instagram" />
+  <a href="https://instagram.com/_tgnhat.py" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="TungNhat-Instagram" />
   </a>
-  <a href="mailto:trungquandev.official@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="trungquandev-email" />
+  <a href="mailto:nguyentrungtungnhat@gmail.com" target="top">
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="TungNhat-Email" />
   </a>
 </div>
 
