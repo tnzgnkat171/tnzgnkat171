@@ -90,12 +90,12 @@
 <h2 align="center">📖 My MERN Stack Advanced Course 📖</h2>
 <br>
 <p>
-  <a href="https://youtu.be/63opfUkPq6k" target="_blank">
-    <strong>☕ Học lập trình MERN Stack Nâng Cao (NodeJS, ReactJS, ExpressJS, MongoDB)</strong>
+  <a href="https://www.facebook.com/messages/t/100052769651205" target="_blank">
+    <strong>☕ Click to ib me
   </a>
 </p>
-<p><strong>☕ Đây là một khóa học mà mình đã làm cực kỳ tâm huyết, với phong cách dạy lập trình làm dự án thực tế, chuyên nghiệp. Để các bạn có một hành trang kiến thức vững chắc cho hành trình sự nghiệp làm lập trình viên trong tương lai nhé.</strong></p>
-<p><strong>☕ Vì mỗi lần mở lớp online dạy trực tiếp này mình chỉ nhận số lượng rất ít bạn để đảm bảo chất lượng học, nên là các bạn quan tâm thì cứ thoải mái liên hệ với mình sớm để đăng ký giữ chỗ cho những lớp tiếp theo nha!</strong></p>
+<p><strong>☕ MB: 9999917012008.</strong></p>
+<p><strong>☕ Co tien thi donate cho anh!</strong></p>
 <p>
   <strong>🔗 Link Instagram: <a href="https://www.instagram.com/_tgnhat.py" target="_blank">_tgnhat.py</a></strong>
   <br>
