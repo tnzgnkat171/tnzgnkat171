@@ -66,7 +66,7 @@
 <!-- https://icons8.com -->
 <div align="center">
   <a href="https://tiktok.com/@tngnht.py" target="blank">
-    <img width="90" height="90" src="images/logo.jpeg" alt="TungNhat-TikTok" />
+    <img width="90" height="90" src="images/logo.jpg" alt="TungNhat-TikTok" />
   </a>
   <a href="https://facebook.com/NhatVaNhungNoiBuon.08" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="TungNhat-Facebook" />
