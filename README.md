@@ -72,7 +72,7 @@
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="TungNhat-Facebook" />
   </a>
   <a href="https://tiktok.com/tngnhat.py" target="blank">
-    <img src="https://seeklogo.com/images/T/tik-tok-logo-E3F1A1B69E-seeklogo.com.png" alt="TungNhat-TikTok" />
+    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="TungNhat-Youtube" />
   </a>
   <a href="https://www.linkedin.com/in/trungquandev" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="trungquandev-linkedin" />
