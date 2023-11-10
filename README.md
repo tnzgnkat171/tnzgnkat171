@@ -74,8 +74,8 @@
   <a href="https://tiktok.com/tngnhat.py" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="TungNhat-Youtube" />
   </a>
-  <a href="https://www.linkedin.com/in/trungquandev" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="trungquandev-linkedin" />
+  <a href="https://tgnhat08.webhostapp000.com" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="TungNhat-Linkedin" />
   </a>
   <a href="https://instagram.com/_tgnhat.py" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="TungNhat-Instagram" />
@@ -97,14 +97,14 @@
 <p><strong>☕ Đây là một khóa học mà mình đã làm cực kỳ tâm huyết, với phong cách dạy lập trình làm dự án thực tế, chuyên nghiệp. Để các bạn có một hành trang kiến thức vững chắc cho hành trình sự nghiệp làm lập trình viên trong tương lai nhé.</strong></p>
 <p><strong>☕ Vì mỗi lần mở lớp online dạy trực tiếp này mình chỉ nhận số lượng rất ít bạn để đảm bảo chất lượng học, nên là các bạn quan tâm thì cứ thoải mái liên hệ với mình sớm để đăng ký giữ chỗ cho những lớp tiếp theo nha!</strong></p>
 <p>
-  <strong>🔗 Link giới thiệu chi tiết: <a href="https://www.instagram.com/_tgnhat.py" target="_blank">_tgnhat.py</a></strong>
+  <strong>🔗 Link Instagram: <a href="https://www.instagram.com/_tgnhat.py" target="_blank">_tgnhat.py</a></strong>
   <br>
   <strong>🔗 Liên hệ với mình tại Facebook: <a href="https://www.facebook.com/NhatVaNhungNoiBuon.08" target="_blank">https://www.facebook.com/NhatVaNhungNoiBuon.08</a></strong>
   <br>
   <strong>📧 Hoặc Email: <a href="mailto:nguyentrungtungnhat@gmail.com" target="_top">nguyentrungtungnhat@gmail.com</a></strong>
 </p>
-<a href="https://youtu.be/63opfUkPq6k" target="_blank">
-  <img src="images/fair-mern-stack-advanced-banner-trungquandev-scaled.jpeg" width="1200" alt="trungquandev-official" />
+<a href="https://tiktok.com/tngnhat.py" target="_blank">
+  <img src="images/fair-mern-stack-advanced-banner-trungquandev-scaled.jpeg" width="1200" alt="tngnhat.py" />
 </a>
 
 <br>
