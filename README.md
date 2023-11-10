@@ -71,7 +71,7 @@
   <a href="https://facebook.com/NhatVaNhungNoiBuon.08" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="TungNhat-Facebook" />
   </a>
-  <a href="https://tiktok.com/@tngnhat.py" target="blank">
+  <a href="https://tiktok.com/@tngnht.py" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="TungNhat-Youtube" />
   </a>
   <a href="https://tgnhat08.webhostapp000.com" target="blank">
@@ -103,8 +103,8 @@
   <br>
   <strong>📧 Hoặc Email: <a href="mailto:nguyentrungtungnhat@gmail.com" target="_top">nguyentrungtungnhat@gmail.com</a></strong>
 </p>
-<a href="https://tiktok.com/@tngnhat.py" target="_blank">
-  <img src="images/fair-mern-stack-advanced-banner-trungquandev-scaled.jpeg" width="1200" alt="@tngnhat.py" />
+<a href="https://tiktok.com/@tngnht.py" target="_blank">
+  <img src="images/fair-mern-stack-advanced-banner-trungquandev-scaled.jpeg" width="1200" alt="@tngnht.py" />
 </a>
 
 <br>
